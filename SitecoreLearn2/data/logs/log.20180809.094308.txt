@@ -1,0 +1,522 @@
+﻿8464 09:43:12 INFO  HttpModule is being initialized
+8464 09:43:12 INFO  
+8464 09:43:12 INFO  **********************************************************************
+8464 09:43:12 INFO  **********************************************************************
+8464 09:43:12 INFO  Sitecore started
+8464 09:43:12 INFO  Sitecore.NET 8.2 (rev. 160729)
+8464 09:43:12 INFO  
+8464 09:43:12 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\adodb.dll ()
+8464 09:43:12 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\antlr3.runtime.dll (Antlr3.Runtime)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\componentart.web.ui.dll ()
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\dotnetopenauth.dll (DotNetOpenAuth, 1c99bf16c5b570cadcf27d0b9ce3d598d06b34ca)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\ecmascript.net.dll (Modified version of the EcmaScript.NET assembly)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\facebook.dll (Facebook C# SDK, Facebook C# SDK)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\facebookapi.dll (FacebookAPI)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\google.apis.authentication.oauth2.dll (OAuth2 Authentication Library)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\google.apis.dll ()
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\google.apis.plus.v1.dll (Google.Apis.Plus.v1)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\hammock.clientprofile.dll (Hammock)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\htmlagilitypack.dll (Html Agility Pack, 1.4.6.0)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\icsharpcode.sharpziplib.dll (#ZipLibrary, A free C# compression library, 0.86.0)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\iesi.collections.dll (Iesi.Collections, Enhanced Collections for .NET.  Code was published at http://www.codeproject.com/csharp/sets.asp, 1.0)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\ithit.webdav.server.dll (WebDav Server .Net v2, IT Hit WebDAV Server .Net v2)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\lucene.net.contrib.analyzers.dll (Lucene.Net.Contrib.Analyzers)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\lucene.net.contrib.core.dll (Lucene.Net.Contrib.Core, Contributions to the Lucene.Net core library)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\lucene.net.contrib.fastvectorhighlighter.dll (Lucene.Net.Contrib.FastVectorHighlighter, FastVectorHighlighter for Lucene.Net)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\lucene.net.contrib.highlighter.dll (Lucene.Net.Contrib.Highlighter, The Apache Software Foundation Lucene.Net a full-text search engine library, 2.3.2)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\lucene.net.contrib.memory.dll (Contrib.Memory)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\lucene.net.contrib.queries.dll (Lucene.Net.Contrib.Queries)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\lucene.net.contrib.regex.dll (Lucene.Net.Contrib.Regex)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\lucene.net.contrib.simplefacetedsearch.dll (Lucene.Net.SimpleFacetedSearch, SimpleFacetedSearch for Lucene.Net)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\lucene.net.contrib.snowball.dll (Lucene.Net.Contrib.Snowball, The Apache Software Foundation Lucene.Net a full-text search engine library, 2.0)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\lucene.net.contrib.spellchecker.dll (SpellChecker.Net, The Apache Software Foundation Lucene.Net a full-text search engine library, 3.0.3)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\lucene.net.dll (Lucene.Net, The Apache Software Foundation Lucene.Net a full-text search engine library, 3.0.3)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\markdownsharp.dll (Markdown processor)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\microsoft.aspnet.webapi.extensions.compression.server.dll (Microsoft.AspNet.WebApi.Extensions.Compression.Server, Module for ASP.NET WebApi that enables GZip and Deflate support for incoming and outgoing requests)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\microsoft.codedom.providers.dotnetcompilerplatform.dll (Microsoft.CodeDom.Providers.DotNetCompilerPlatform, 1.0.8-41016)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\microsoft.extensions.dependencyinjection.abstractions.dll (Microsoft .NET Extensions, Abstractions for dependency injection.
+Commonly used types:
+Microsoft.Extensions.DependencyInjection.IServiceCollection
+Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions, 1.0.0-rtm-21431)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\microsoft.extensions.dependencyinjection.dll (Microsoft .NET Extensions, Default implementation of dependency injection for Microsoft.Extensions.DependencyInjection, 1.0.0-rtm-21431)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\microsoft.odata.core.dll (Microsoft® .NET Framework, Microsoft.OData.Core.dll, 6.15.0.0)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\microsoft.odata.edm.dll (Microsoft® .NET Framework, Microsoft.OData.Edm.dll, 6.15.0.0)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\microsoft.practices.servicelocation.dll (Microsoft.Practices.ServiceLocation, A simple facade that provides insulation from specific IoC containers)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\microsoft.spatial.dll (Microsoft® .NET Framework, Microsoft.Spatial.dll, 6.15.0.0)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\microsoft.web.administration.dll (Internet Information Services)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\microsoft.web.delegation.dll (Microsoft (R) Windows (R) Operating System)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\microsoft.web.deployment.tracing.dll (Microsoft (R) Windows (R) Operating System)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\microsoft.web.infrastructure.dll (Microsoft ASP.Net WebPages)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\microsoft.windowsazure.serviceruntime.dll (Windows Azure Runtime, 2.7.1198.768 (rd_art_stable.160418-1850))
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\mongodb.bson.dll (MongoDB.Bson, Official MongoDB supported BSON library. See http://www.mongodb.org/display/DOCS/CSharp+Language+Center for more details, { version: '1.10.0.62', semver: '1.10.0', commit: '2df664a15859899b9bb0a457e237ec32c7d31e48', commitDate: '2015-01-29 15:41:46' })
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\mongodb.driver.dll (MongoDB.Driver, Official MongoDB supported driver for MongoDB.  See http://www.mongodb.org/display/DOCS/CSharp+Language+Center for more details, { version: '1.10.0.62', semver: '1.10.0', commit: '2df664a15859899b9bb0a457e237ec32c7d31e48', commitDate: '2015-01-29 15:41:46' })
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\mvp.xml.dll (MVP XML Library)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\netbiscuits.onpremise.dll (OnPremise)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\newtonsoft.json.dll (Json.NET, Json.NET is a popular high-performance JSON framework for .NET)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\oauthlinkedin.dll (OAuthLinkedIn)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\protobuf-net.dll (protobuf-net, Protocol Buffers for .NET)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\radeditor.net2.dll (RadEditor, Telerik RadEditor)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\razorgenerator.mvc.dll (RazorGenerator, MVC View engine that supports precompiled Razor views, 2.4.2)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.abstractions.dll (Sitecore CMS, 10.0.0 rev. 160729)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.analytics.aggregation.dll (Sitecore xDB, 10.0.0 rev. 160706)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.analytics.automation.aggregation.dll (Sitecore Engagement Automation, 10.0.0 rev. 160623)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.analytics.automation.dll (Sitecore Engagement Automation, 10.0.0 rev. 160623)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.analytics.automation.mongodb.dll (Sitecore Engagement Automation, 10.0.0 rev. 160623)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.analytics.core.dll (Sitecore xDB, 10.0.0 rev. 160706)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.analytics.dataaccess.dll (Sitecore xDB, 10.0.0 rev. 160706)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.analytics.dll (Sitecore xDB, Sitecore xDB, 10.0.0 rev. 160706)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.analytics.model.dll (Sitecore xDB, 10.0.0 rev. 160706)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.analytics.mongodb.dll (Sitecore xDB, Sitecore xDB MongoDB Connector, 10.0.0 rev. 160706)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.analytics.omnichannel.dll (Sitecore xDB, 10.0.0 rev. 160706)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.analytics.outcome.dll (Sitecore xDB, 10.0.0 rev. 160706)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.analytics.processing.dll (Sitecore xDB, 10.0.0 rev. 160706)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.analytics.robotdetection.dll (Sitecore Robot Detection, 10.0.0 rev. 160614)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.analytics.sql.dll (Sitecore xDB, 10.0.0 rev. 160706)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.apps.loader.dll (Sitecore.Apps.Loader, Sitecore.Apps.Loader, 1.1.1-r00027)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.buckets.client.dll (Sitecore Buckets, The assembly can be used to have Sitecore queries driven via a query, 2.0.0 rev. 160726)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.buckets.dll (Sitecore Buckets, The assembly can be used to have Sitecore queries driven via search providers, 2.0.0 rev. 160726)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.ces.devicedetection.dll (Sitecore Device Detection Client, 1.1.0 rev. 160711)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.ces.devicedetection.rules.dll (Sitecore Device Detection Client, 1.1.0 rev. 160711)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.ces.dll (Sitecore IP Geolocation Service Client, 1.4.0 rev. 160712)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.ces.geoip.dll (Sitecore IP Geolocation Service Client, 1.4.0 rev. 160712)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.ces.geoip.legacylocation.dll (Sitecore IP Geolocation Service Client, 1.4.0 rev. 160712)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.cintel.client.dll (Sitecore Experience Profile, 1.1.0 rev. 160727)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.cintel.dll (Sitecore Experience Profile, 1.1.0 rev. 160727)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.client.dll (Sitecore CMS, Sitecore Client Application, 10.0.0 rev. 160729)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.client.licenseoptions.dll (Sitecore Speak Applications, 1.4.0 rev. 160629)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.cloud.contentsearch.dll (Sitecore Cloud ContentSearch, 8.2.0 rev. 160705)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.cloud.nexus.dll (Sitecore Cloud Nexus, 2.3.0.59)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.cloud.restclient.dll (Sitecore Cloud RestClient, 6.3.0.50)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.cloud.xdb.dll (Sitecore Cloud Xdb, 8.2.0 rev. 160623)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.commerce.dll (Sitecore Commerce Connect, 8.2.243-LOCAL-ca87080)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.commerce.experienceanalytics.dll (Sitecore Commerce Connect, 8.2.243-LOCAL-ca87080)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.commerce.experienceprofile.dll (Sitecore Commerce Connect, 8.2.243-LOCAL-ca87080)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.contentsearch.analytics.client.dll (Sitecore ContactSegmentationIndex, 10.0.0 rev. 160706)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.contentsearch.analytics.dll (Sitecore ContactSegmentationIndex, 10.0.0 rev. 160706)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.contentsearch.client.dll (Sitecore Content Search, 2.0.0 rev. 160726)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.contentsearch.dll (Sitecore Content Search, Sitecore CMS Search, 2.0.0 rev. 160726)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.contentsearch.linq.dll (Sitecore Content Search, Sitecore CMS Search, 2.0.0 rev. 160726)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.contentsearch.linq.lucene.dll (Sitecore Content Search, 2.0.0 rev. 160726)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.contentsearch.linq.solr.dll (Sitecore Content Search, 2.0.0 rev. 160726)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.contentsearch.luceneprovider.dll (Sitecore Content Search, Sitecore CMS Search, 2.0.0 rev. 160726)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.contentsearch.solrprovider.dll (Sitecore Content Search, 2.0.0 rev. 160726)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.contenttesting.dll (Sitecore Content Testing, 10.0.0-r0994-ee0a26b)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.contenttesting.intelligence.dll (Sitecore Content Testing, 10.0.0-r0994-ee0a26b)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.contenttesting.model.dll (Sitecore Content Testing, 10.0.0-r0994-ee0a26b)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.contenttesting.mvc.dll (Sitecore Content Testing, 10.0.0-r0994-ee0a26b)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.controlpanel.dll (Sitecore Speak Applications, 1.4.0 rev. 160629)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.experienceanalytics.aggregation.dll (Sitecore Experience Analytics, 2.0.0 rev. 160714)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.experienceanalytics.api.dll (Sitecore Experience Analytics, 2.0.0 rev. 160714)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.experienceanalytics.client.dll (Sitecore Experience Analytics, 2.0.0 rev. 160714)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.experienceanalytics.core.dll (Sitecore Experience Analytics, 2.0.0 rev. 160714)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.experienceanalytics.dll (Sitecore Experience Analytics, 2.0.0 rev. 160714)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.experienceanalytics.reaggregation.dll (Sitecore Experience Analytics, 2.0.0 rev. 160714)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.experienceanalytics.reduce.dll (Sitecore Experience Analytics, 2.0.0 rev. 160714)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.experiencecontentmanagement.administration.dll (Sitecore.ExperienceContentManagement.Administration, 1.1.0 rev. 160727)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.experienceeditor.dll (Sitecore Experience Editor, 3.0.0 rev. 160712)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.experienceeditor.speak.dll (Sitecore Experience Editor, 3.0.0 rev. 160712)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.experienceeditor.speak.ribbon.dll (Sitecore Experience Editor, 3.0.0 rev. 160712)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.experienceexplorer.business.dll (Sitecore Experience Explorer, 2.1.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.experienceexplorer.web.dll (Sitecore Experience Explorer, 2.1.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.fxm.client.dll (Sitecore Federated Experience Manager, 2.2.0 rev. 160713 )
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.fxm.dll (Sitecore Federated Experience Manager, 2.2.0 rev. 160713 )
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.fxm.service.dll (Sitecore Federated Experience Manager, 2.2.0 rev. 160713 )
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.fxm.speak.dll (Sitecore Federated Experience Manager, 2.2.0 rev. 160713 )
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.itemwebapi.dll (Sitecore Item Web API, 1.3.0 rev. 160621)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.kernel.dll (Sitecore CMS, Sitecore CMS Kernel Library, 10.0.0 rev. 160729)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.launchpad.dll (Sitecore LaunchPad, 1.1.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.listmanagement.analytics.dll (Sitecore ListManager, 1.2.0 rev. 160719)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.listmanagement.client.dll (Sitecore ListManager, 1.2.0 rev. 160719)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.listmanagement.contentsearch.dll (Sitecore ListManager, 1.2.0 rev. 160719)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.listmanagement.dll (Sitecore ListManager, 1.2.0 rev. 160719)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.listmanagement.services.dll (Sitecore ListManager, 1.2.0 rev. 160719)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.logging.client.dll (Sitecore CMS, Lets you insert loggers in your JavaScript, and automatically sends the log messages to a server side component that stores them in your existing server side logs. Interfaces with Sitecore.Logging.
+
+Ideal for logging JavaScript exceptions to the server, including a stack trace. Documentation and examples are at jsnlog.com, 10.0.0 rev. 160622)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.logging.dll (Sitecore CMS, Sitecore Logging Framework, 10.0.0 rev. 160622)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.marketing.campaigns.client.dll (Sitecore CampaignManager, 1.2.0 rev. 160719)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.marketing.campaigns.services.dll (Sitecore CampaignManager, 1.2.0 rev. 160719)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.marketing.client.dll (Sitecore Marketing Client, 10.0.0 rev. 160629)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.marketing.core.dll (Sitecore Marketing Operations, 10.0.0 rev. 160614)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.marketing.definitions.marketingassets.repositories.dll (Sitecore Marketing Asset Repositories, 10.0.0 rev. 160624)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.marketing.dll (Sitecore Marketing Operations, 10.0.0 rev. 160614)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.marketing.search.dll (Sitecore Marketing Operations, 10.0.0 rev. 160614)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.marketing.taxonomy.dll (Sitecore Marketing Operations, 10.0.0 rev. 160614)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.mvc.analytics.dll (Sitecore Mvc Analytics, 10.0.0 rev. 160718)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.mvc.devicesimulator.dll (Sitecore Mvc Device Simulators, 1.1.0 rev. 160526)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.mvc.dll (Sitecore Mvc, 1.1.0 rev. 160726)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.mvc.experienceeditor.dll (Sitecore MVC Experience Editor, 2.1.0 rev. 160712)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.nexus.dll (Sitecore.Nexus, 1.0.4415)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.nvelocity.dll (Sitecore CMS, Sitecore Macro Expansion Library, 7.0.0 rev. 160623)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.oracle.dll (Sitecore Oracle, 10.0.0 rev. 160622)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.pathanalyzer.client.dll (Sitecore Path Analyzer, 1.2.0-r01516-e0a99be)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.pathanalyzer.dll (Sitecore Path Analyzer, 1.2.0-r01516-e0a99be)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.pathanalyzer.services.dll (Sitecore Path Analyzer, 1.2.0-r01516-e0a99be)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.publishing.webdeploy.dll (Sitecore CMS, Sitecore publishing infrastructure based on Web Deployment Tool, 10.0.0 rev. 160729)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.security.anticsrf.dll (Sitecore AntiCSRF Module, 1.1.0 rev. 160715)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.segmentbuilder.dll (Sitecore SegmentBuilder, 1.1.0 rev. 160715)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.sequenceanalyzer.dll (Sitecore Path Analyzer, 1.2.0-r01516-e0a99be)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.services.client.dll (Sitecore Services Client, Sitecore Services, 1.3.0-r773-01e47a8)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.services.core.dll (Sitecore Services Client Services, Sitecore Services, 1.3.0-r794-44146d0)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.services.infrastructure.dll (Sitecore Services Client Services, Sitecore Services, 1.3.0-r794-44146d0)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.services.infrastructure.sitecore.dll (Sitecore Services Client Services, Sitecore Services, 1.3.0-r794-44146d0)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.sessionprovider.dll (Sitecore Session Providers, 10.0.0 rev. 160621)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.sessionprovider.memory.dll (Sitecore Session Providers, 10.0.0 rev. 160621)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.sessionprovider.mongodb.dll (Sitecore Session Providers, 10.0.0 rev. 160621)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.sessionprovider.sql.dll (Sitecore Session Providers, 10.0.0 rev. 160621)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.shell.marketingautomation.dll (Sitecore Engagement Automation Suite, 10.0.0 rev. 160623)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.social.api.dll (Social Connected Module, 10.0.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.social.client.api.dll (Social Connected Module, 10.0.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.social.client.common.dll (Social Connected Module, 10.0.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.social.client.dll (Social Connected Module, 10.0.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.social.client.domain.dll (Social Connected Module, 10.0.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.social.client.mvc.dll (Social Connected Module, 10.0.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.social.client.speak.dll (Social Connected Module, 10.0.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.social.configuration.dll (Social Connected Module, 10.0.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.social.dll (Social Connected Module, 10.0.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.social.domain.dll (Social Connected Module, 10.0.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.social.experienceprofile.client.dll (Social Connected Module, 10.0.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.social.facebook.api.dll (Social Connected Module, 10.0.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.social.facebook.client.dll (Social Connected Module, 10.0.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.social.facebook.client.mvc.dll (Social Connected Module, 10.0.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.social.facebook.dll (Social Connected Module, 10.0.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.social.googleplus.client.dll (Social Connected Module, 10.0.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.social.googleplus.client.mvc.dll (Social Connected Module, 10.0.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.social.googleplus.dll (Social Connected Module, 10.0.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.social.infrastructure.dll (Social Connected Module, 10.0.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.social.infrastructure.logging.dll (Social Connected Module, 10.0.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.social.installation.dll (Social Connected Module, 10.0.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.social.klout.api.dll (Social Connected Module, 10.0.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.social.klout.client.dll (Social Connected Module, 10.0.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.social.linkedin.client.dll (Social Connected Module, 10.0.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.social.linkedin.client.mvc.dll (Social Connected Module, 10.0.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.social.linkedin.dll (Social Connected Module, 10.0.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.social.networkproviders.dll (Social Connected Module, 10.0.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.social.sitecoreaccess.dll (Social Connected Module, 10.0.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.social.socialmarketer.api.dll (Social Connected Module, 10.0.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.social.socialmarketer.client.dll (Social Connected Module, 10.0.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.social.socialmarketer.dll (Social Connected Module, 10.0.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.social.twitter.api.dll (Social Connected Module, 10.0.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.social.twitter.client.dll (Social Connected Module, 10.0.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.social.twitter.client.mvc.dll (Social Connected Module, 10.0.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.social.twitter.dll (Social Connected Module, 10.0.0 rev. 160713)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.speak.applications.dll (Sitecore Speak Applications, 1.4.0 rev. 160629)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.speak.client.dll (Sitecore Speak, 2.1.0-r0628-6f13ca2)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.speak.components.dll (Sitecore Speak Components, 2.1.0-r3536-7c22e6f)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.speak.components.guidance.dll (Sitecore Speak Components, 2.1.0-r3536-7c22e6f)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.speak.components.web.dll (Sitecore Speak Components, 2.1.0-r3536-7c22e6f)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.speak.itemwebapi.dll (Sitecore Speak, 2.1.0-r0628-6f13ca2)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.speak.web.dll (Sitecore Speak)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.update.dll (Sitecore Update Installation Wizard, 1.1.0 rev. 160717)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.web.dll (Sitecore.Web 1.2.0, 1.2.0 rev. 160603)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.xdb.client.dll (Sitecore xDB, 10.0.0 rev. 160706)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.xdb.configuration.dll (Sitecore xDB, 10.0.0 rev. 160706)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecore.zip.dll (Sitecore CMS, ZIP support for Sitecore, 10.0.0 rev. 160621)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\sitecorelearn2.dll (SitecoreLearn2)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\solrnet.dll (SolrNet, SolrNet, 7e145bad3cb1f6800b55a46e1214929e134deb9b)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\stimulsoft.base.dll (Stimulsoft Reports, Stimulsoft Base)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\stimulsoft.database.dll (Stimulsoft Reports, Stimulsoft Reports Database Helper)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\stimulsoft.report.dll (Stimulsoft Reports, Stimulsoft Reports Engine)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\stimulsoft.report.web.dll (Stimulsoft Reports.Web, Stimulsoft Reports.Web Viewer)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\stimulsoft.report.webdesign.dll (Stimulsoft Reports Designer.Web, Stimulsoft Reports Designer.Web)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\system.identitymodel.tokens.jwt.dll (System.IdentityModel.Tokens.Jwt, .Net 4.5 support for JSON Web Security Tokens, 20622.1351.a95e76cc46fe08b6d46b5fbe2405d27269475a1a)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\system.net.http.extensions.compression.core.dll (Core)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\system.net.http.formatting.dll (Microsoft ASP.NET MVC, 5.2.3-30128 (0e974218e12a67d4b1f25422119e40cfe6953e46))
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\system.web.cors.dll (Microsoft ASP.NET MVC, 5.2.3-30128 (0e974218e12a67d4b1f25422119e40cfe6953e46))
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\system.web.helpers.dll (Microsoft ASP.NET Web Pages, 3.0.3-30128 (0e974218e12a67d4b1f25422119e40cfe6953e46))
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\system.web.http.cors.dll (Microsoft ASP.NET MVC, 5.2.3-30128 (0e974218e12a67d4b1f25422119e40cfe6953e46))
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\system.web.http.dll (Microsoft ASP.NET MVC, 5.2.3-30128 (0e974218e12a67d4b1f25422119e40cfe6953e46))
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\system.web.http.webhost.dll (Microsoft ASP.NET MVC, 5.2.3-30128 (0e974218e12a67d4b1f25422119e40cfe6953e46))
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\system.web.mvc.dll (Microsoft ASP.NET MVC, System.Web.Mvc.dll, 5.2.3-30128 (0e974218e12a67d4b1f25422119e40cfe6953e46))
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\system.web.odata.dll (Microsoft OData Web API, 5.9.0-40401)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\system.web.optimization.dll (System.Web.Optimization)
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\system.web.razor.dll (Microsoft ASP.NET Web Pages, 3.0.3-30128 (0e974218e12a67d4b1f25422119e40cfe6953e46))
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\system.web.webpages.deployment.dll (Microsoft ASP.NET Web Pages, 3.0.3-30128 (0e974218e12a67d4b1f25422119e40cfe6953e46))
+8464 09:43:13 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\system.web.webpages.dll (Microsoft ASP.NET Web Pages, 3.0.3-30128 (0e974218e12a67d4b1f25422119e40cfe6953e46))
+8464 09:43:14 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\system.web.webpages.razor.dll (Microsoft ASP.NET Web Pages, 3.0.3-30128 (0e974218e12a67d4b1f25422119e40cfe6953e46))
+8464 09:43:14 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\telerik.web.ui.dll (Telerik.Web.UI, Telerik UI for ASP.NET AJAX)
+8464 09:43:14 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\telerik.web.ui.skins.dll (Telerik.Web.UI.Skins, Telerik UI for ASP.NET AJAX Ajax Skins)
+8464 09:43:14 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\tweetsharp.dll (TweetSharp)
+8464 09:43:14 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\webactivatorex.dll (WebActivator, A package that allows other packages to execute some startup code in web apps. This package should be used over the older WebActivator, which was not strong named)
+8464 09:43:14 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\webgrease.dll (WebGrease)
+8464 09:43:14 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\windowsazureeventsource.dll (Windows Azure Runtime, 2.7.1198.768 (rd_art_stable.160418-1850))
+8464 09:43:14 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\windowsazuretelemetryevents.dll (Windows Azure Runtime, 2.7.1198.768 (rd_art_stable.160418-1850))
+8464 09:43:14 INFO  c:\users\softwarehut\source\repos\sitecorelearn2\sitecorelearn2\bin\yahoo.yui.compressor.dll (YUI Compressor, A .NET port of the Yahoo! YUI Compressor project)
+8464 09:43:14 INFO  
+8464 09:43:14 INFO  Operating system Microsoft Windows NT 10.0.17134.0
+8464 09:43:14 INFO  
+8464 09:43:14 INFO  Microsoft.NET version 4.0.30319.42000
+8464 09:43:14 INFO  
+8464 09:43:14 INFO  UTC offset: 02:00:00
+8464 09:43:14 INFO  Machine name: DESKTOP-8CM2068
+8464 09:43:14 INFO  App pool ID: Clr4IntegratedAppPool
+8464 09:43:14 INFO  
+8464 09:43:14 INFO  Process ID: 14252
+8464 09:43:14 INFO  Windows identity used by the process: DESKTOP-8CM2068\softwarehut. Impersonation: False
+8464 09:43:14 INFO  Managed pipeline mode: Integrated
+8464 09:43:14 INFO  
+8464 09:43:14 INFO  EventQueues enabled: True
+8464 09:43:14 INFO  Instance Name:DESKTOP-8CM2068-SitecoreLearn2
+8464 09:43:14 INFO  
+8464 09:43:14 INFO  Threshold settings
+8464 09:43:14 INFO    Show threshold warnings: False
+8464 09:43:14 INFO  
+8464 09:43:14 INFO  Databases
+8464 09:43:14 INFO    core
+8464 09:43:14 INFO    master
+8464 09:43:14 INFO    web
+8464 09:43:14 INFO    filesystem
+8464 09:43:14 INFO  
+8464 09:43:14 INFO  Domains
+8464 09:43:14 INFO  Heartbeat - Initializing
+8464 09:43:14 INFO  Heartbeat - Interval set to: 00:00:02
+8464 09:43:14 INFO  Heartbeat - Worker thread started
+8464 09:43:14 INFO  Trying to load XML configuration /App_Config/Security/Domains.config
+8464 09:43:14 INFO    sitecore
+8464 09:43:14 INFO    extranet
+8464 09:43:14 INFO    default
+8464 09:43:14 INFO  
+8464 09:43:14 WARN  Note that asp.net debugging is enabled. This can decrease performance considerably.
+8464 09:43:14 INFO  
+8464 09:43:14 INFO  **********************************************************************
+8464 09:43:14 INFO  **********************************************************************
+8464 09:43:14 INFO  
+8464 09:43:14 INFO  **********************************************************************
+8464 09:43:14 INFO  **********************************************************************
+8464 09:43:14 INFO  
+8464 09:43:14 INFO  xDB is disabled.
+8464 09:43:14 INFO  
+8464 09:43:14 INFO  Tracking is enabled.
+8464 09:43:14 INFO  
+8464 09:43:14 INFO  Missing valid xDB license.
+8464 09:43:14 INFO  
+8464 09:43:14 INFO  **********************************************************************
+8464 09:43:14 INFO  **********************************************************************
+8464 09:43:14 INFO  Cache created: 'LanguageProvider - Languages' (max size: 100KB, running total: 100KB)
+8464 09:43:14 INFO  Cache created: 'DeviceItemsCache' (max size: 50MB, running total: 50MB)
+8464 09:43:14 INFO  Cache created: 'core[data]' (max size: 100MB, running total: 150MB)
+8464 09:43:14 INFO  Cache created: 'core[items]' (max size: 50MB, running total: 200MB)
+8464 09:43:14 INFO  Cache created: 'core[paths]' (max size: 2MB, running total: 202MB)
+8464 09:43:14 INFO  Cache created: 'core[standardValues]' (max size: 2MB, running total: 204MB)
+8464 09:43:14 INFO  Cache created: 'core[languageFallback]' (max size: 20MB, running total: 224MB)
+8464 09:43:14 INFO  Cache created: 'core[isLanguageFallbackValid]' (max size: 100KB, running total: 225MB)
+8464 09:43:14 INFO  Cache created: 'core[itempaths]' (max size: 50MB, running total: 275MB)
+8464 09:43:14 INFO  Cache created: 'core[blobIDs]' (max size: 500KB, running total: 275MB)
+8464 09:43:14 INFO  Cache created: 'master[data]' (max size: 100MB, running total: 375MB)
+8464 09:43:14 INFO  Cache created: 'master[items]' (max size: 50MB, running total: 425MB)
+8464 09:43:14 INFO  Cache created: 'master[paths]' (max size: 2MB, running total: 428MB)
+8464 09:43:14 INFO  Cache created: 'master[standardValues]' (max size: 2MB, running total: 430MB)
+8464 09:43:14 INFO  Cache created: 'master[languageFallback]' (max size: 20MB, running total: 450MB)
+8464 09:43:14 INFO  Cache created: 'master[isLanguageFallbackValid]' (max size: 100KB, running total: 450MB)
+8464 09:43:14 INFO  Cache created: 'master[itempaths]' (max size: 50MB, running total: 500MB)
+8464 09:43:14 INFO  Cache created: 'master[blobIDs]' (max size: 500KB, running total: 501MB)
+8464 09:43:14 INFO  Cache created: 'web[data]' (max size: 100MB, running total: 601MB)
+8464 09:43:14 INFO  Cache created: 'web[items]' (max size: 50MB, running total: 651MB)
+8464 09:43:14 INFO  Cache created: 'web[paths]' (max size: 2MB, running total: 653MB)
+8464 09:43:14 INFO  Cache created: 'web[standardValues]' (max size: 2MB, running total: 655MB)
+8464 09:43:14 INFO  Cache created: 'web[languageFallback]' (max size: 20MB, running total: 675MB)
+8464 09:43:14 INFO  Cache created: 'web[isLanguageFallbackValid]' (max size: 100KB, running total: 676MB)
+8464 09:43:14 INFO  Cache created: 'web[itempaths]' (max size: 50MB, running total: 726MB)
+8464 09:43:14 INFO  Cache created: 'web[blobIDs]' (max size: 500KB, running total: 726MB)
+8464 09:43:14 INFO  Cache created: 'filesystem[data]' (max size: 0 bytes, running total: 726MB)
+8464 09:43:14 INFO  Cache created: 'filesystem[items]' (max size: 0 bytes, running total: 726MB)
+8464 09:43:14 INFO  Cache created: 'filesystem[paths]' (max size: 0 bytes, running total: 726MB)
+8464 09:43:14 INFO  Cache created: 'filesystem[standardValues]' (max size: 0 bytes, running total: 726MB)
+8464 09:43:14 INFO  Cache created: 'filesystem[languageFallback]' (max size: 20MB, running total: 746MB)
+8464 09:43:14 INFO  Cache created: 'filesystem[isLanguageFallbackValid]' (max size: 100KB, running total: 746MB)
+8464 09:43:14 INFO  Cache created: 'filesystem[itempaths]' (max size: 50MB, running total: 796MB)
+8464 09:43:14 INFO  Cache created: 'filesystem[blobIDs]' (max size: 500KB, running total: 797MB)
+ManagedPoolThread #4 09:43:16 INFO  Trying to load XML configuration /App_Config/Security/Domains.config
+ManagedPoolThread #6 09:43:18 INFO  Cache created: 'SqlDataProvider - Property data(core)' (max size: 500KB, running total: 797MB)
+ManagedPoolThread #6 09:43:18 INFO  Cache created: 'SqlDataProvider - Property data(master)' (max size: 500KB, running total: 798MB)
+ManagedPoolThread #6 09:43:18 INFO  Cache created: 'SqlDataProvider - Property data(web)' (max size: 500KB, running total: 798MB)
+8464 09:46:27 INFO  Cache created: 'SqlDataProvider - Prefetch data(core)' (max size: 50MB, running total: 848MB)
+8464 09:46:28 INFO  Cache created: 'AccessResultCache' (max size: 10MB, running total: 858MB)
+8464 09:46:28 INFO  Loading Dictionary from database. Domain: 'Dictionary'. Language: 'en'.
+8464 09:46:28 INFO  Cache created: 'ProxyProvider' (max size: 500KB, running total: 859MB)
+8464 09:47:31 INFO  Cache created: 'ItemCloningRelations' (max size: 50MB, running total: 909MB)
+8464 09:47:31 INFO  Cache created: 'clientData' (max size: 25MB, running total: 934MB)
+8464 09:47:31 INFO  Cache created: 'UserProfileCache' (max size: 5MB, running total: 939MB)
+8464 09:48:15 INFO  MemoryMonitor initialized. Threshold: 2 GB. Interval: 00:00:05
+8464 09:48:15 INFO  SubmitQueueService was not started as xDB is disabled.
+8464 09:48:15 INFO  Automation aggregation subsystem loader is not initialized as xDB is disabled.
+8464 09:48:15 INFO  Cache created: 'rules' (max size: 800KB, running total: 939MB)
+8464 09:48:15 INFO  Cache created: '[FieldReaderCache, Id: defaultFieldReaderMap]' (max size: 5MB, running total: 944MB)
+8464 09:48:16 INFO  Cache created: 'taxonomy.campaigngroups' (max size: 20MB, running total: 964MB)
+8464 09:48:16 INFO  Cache created: 'taxonomy.channels' (max size: 20MB, running total: 984MB)
+8464 09:48:16 INFO  Cache created: 'taxonomy.venues' (max size: 20MB, running total: 1004MB)
+8464 09:48:16 INFO  Cache created: 'taxonomy.assets' (max size: 20MB, running total: 1024MB)
+8464 09:48:16 INFO  Cache created: 'taxonomy.outcomeGroups' (max size: 20MB, running total: 1044MB)
+8464 09:48:16 INFO  [Path Analyzer](.) Path Analyzer subsystem loader is not initialized as xDB is disabled.
+8464 09:48:16 INFO  [Experience Analytics]: Experience Analytics subsystem is not initialized as XDB is disabled.
+8464 09:48:16 INFO  Scheduler - Initializing
+8464 09:48:17 INFO  Scheduler - Interval set to: 00:00:05
+8464 09:48:17 INFO  Scheduler - Worker thread started
+8464 09:48:17 ERROR WebDAV License file 'c:\users\softwarehut\source\repos\SitecoreLearn2\SitecoreLearn2\bin\ITHit.WebDAV.Server.lic' not found.
+8464 09:48:17 INFO  Sitecore.Analytics.Tracking.Diagnostics.PerformanceCounters are initialized
+8464 09:48:17 INFO  DumpConfigurationFiles: Started
+2460 09:48:17 INFO  DumpConfigurationFiles: Dump folder is c:\users\softwarehut\source\repos\SitecoreLearn2\SitecoreLearn2\data\diagnostics\configuration_history\20180809Z.074817Z
+8464 09:48:17 WARN  Sitecore.Social: Ninject, Version=3.2.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7 is not loaded. Couldn't register the Social MVC area.
+8464 09:48:17 INFO  [Sitecore Mvc]: Sitecore MVC IAssemblyResolver contains 168 assemblies
+2460 09:48:19 INFO  DumpConfigurationFiles: c:\users\softwarehut\source\repos\SitecoreLearn2\SitecoreLearn2\App_Config has been dumped
+2460 09:48:19 INFO  DumpConfigurationFiles: c:\users\softwarehut\source\repos\SitecoreLearn2\SitecoreLearn2\Web.config has been dumped
+2460 09:48:19 INFO  DumpConfigurationFiles: c:\users\softwarehut\source\repos\SitecoreLearn2\SitecoreLearn2\Global.asax has been dumped
+2460 09:48:19 INFO  DumpConfigurationFiles: c:\users\softwarehut\source\repos\SitecoreLearn2\SitecoreLearn2\sitecore\shell\sitecore.version.xml has been dumped
+2460 09:48:19 INFO  DumpConfigurationFiles: Zipping of the dumped configuration files is enabled
+8464 09:48:20 INFO  Trace: BaseTypeProvider`1.GetTypes 458ms
+8464 09:48:20 INFO  Trace: BaseTypeProvider`1.GetTypes 234ms
+8464 09:48:20 INFO  Trace: BaseTypeProvider`1.GetTypes 300ms
+8464 09:48:20 INFO  Trace: BaseTypeProvider`1.GetTypes 192ms
+8464 09:48:21 INFO  Cache created: 'PathAnalyzer_ResponseCache' (max size: 10MB, running total: 1054MB)
+8464 09:48:21 INFO  [Experience Analytics]: SyncSegmentsProcessor skipped the segments syncronization because XDB is disabled
+8464 09:48:21 INFO  [Experience Analytics]: WebApiInitializer
+8464 09:48:21 INFO  [Experience Analytics]: Filter (Sitecore.ExperienceAnalytics.Api.Http.Filters.CacheHeaderFilterAttribute) added
+8464 09:48:21 WARN  Sitecore.Social: Ninject, Version=3.2.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7 is not loaded. Could not initialize the Social remote events.
+4460 09:48:21 INFO  HttpModule is being initialized
+13168 09:48:21 INFO  HttpModule is being initialized
+2460 09:48:21 INFO  DumpConfigurationFiles: c:\users\softwarehut\source\repos\SitecoreLearn2\SitecoreLearn2\data\diagnostics\configuration_history\20180809Z.074817Z.zip has been created
+2460 09:48:22 INFO  DumpConfigurationFiles: c:\users\softwarehut\source\repos\SitecoreLearn2\SitecoreLearn2\data\diagnostics\configuration_history\20180809Z.074817Z has been removed
+2460 09:48:22 INFO  DumpConfigurationFiles: Completed
+8660 09:48:22 INFO  Scheduler - Adding agents
+8660 09:48:22 INFO  Scheduler - Adding agent: Sitecore.Tasks.UrlAgent (interval: 00:15:00)
+8660 09:48:22 INFO  Scheduler - Adding agent: Sitecore.Tasks.TaskDatabaseAgent (interval: 00:10:00)
+8660 09:48:22 INFO  Scheduler - Adding agent: Sitecore.Tasks.CompactClientDataAgent (interval: 04:00:00)
+8660 09:48:22 INFO  Scheduler - Adding agent: Sitecore.Tasks.CleanupHistory (interval: 04:00:00)
+8660 09:48:22 INFO  Scheduler - Adding agent: Sitecore.Tasks.CleanupPublishQueue (interval: 04:00:00)
+8660 09:48:22 INFO  Scheduler - Adding agent: Sitecore.Tasks.CleanupEventQueue (interval: 04:00:00)
+8660 09:48:22 INFO  Scheduler - Skipping inactive agent: Sitecore.Tasks.HtmlCacheClearAgent
+8660 09:48:22 INFO  Scheduler - Adding agent: Sitecore.Tasks.CleanupAuthenticationTicketsAgent (interval: 04:00:00)
+8660 09:48:22 INFO  Scheduler - Skipping inactive agent: Sitecore.Tasks.PublishAgent
+8660 09:48:22 INFO  Scheduler - Adding agent: Sitecore.Tasks.CleanupAgent (interval: 06:00:00)
+8660 09:48:22 INFO  Scheduler - Adding agent: Sitecore.Tasks.CounterDumpAgent (interval: 01:00:00)
+8660 09:48:22 INFO  Scheduler - Adding agent: Sitecore.Tasks.CloneNotificationsCleanupAgent (interval: 1.00:00:00)
+8660 09:48:22 INFO  Scheduler - Adding agent: Sitecore.Analytics.Tasks.EmailReportsTask (interval: 01:00:00)
+8660 09:48:22 INFO  Scheduler - Adding agent: Sitecore.ContentSearch.Tasks.Optimize (interval: 12:00:00)
+8660 09:48:22 INFO  Scheduler - Adding agent: Sitecore.PathAnalyzer.Client.Tasks.HelpUpdateAgent (interval: 03:00:00)
+8660 09:48:22 INFO  Scheduler - Adding agent: Sitecore.PathAnalyzer.Client.Tasks.HelpUpdateAgent (interval: 03:00:00)
+8660 09:48:22 INFO  Scheduler - Adding agent: Core_Database_Agent (interval: 00:10:00)
+8660 09:48:22 INFO  Scheduler - Adding agent: Master_Database_Agent (interval: 00:10:00)
+8660 09:48:22 INFO  Scheduler - Adding agent: Sitecore.Tasks.CleanupFDAObsoleteMediaData (interval: 1.00:00:00)
+8660 09:48:22 INFO  Scheduler - Adding agent: Sitecore.Tasks.WebDAVOptionsCleanupAgent (interval: 1.00:00:00)
+8660 09:48:22 INFO  Scheduler - Skipping inactive agent: Sitecore.Social.Client.Tasks.ManagePreExpiredAccounts
+8660 09:48:22 INFO  Scheduler - Skipping inactive agent: Sitecore.Social.Client.Tasks.SynchronizeSocialMediaInfo
+8660 09:48:22 INFO  Scheduler - Adding agent: Sitecore.Social.Client.Tasks.PostFlaggedMessages (interval: 01:00:00)
+8660 09:48:22 INFO  Scheduler - Adding agent: Sitecore.Social.Client.Tasks.UpdateMessagesStatistics (interval: 01:00:00)
+8660 09:48:22 INFO  Scheduler - Agents added
+4460 09:48:22 INFO  Cache created: 'SqlDataProvider - Prefetch data(web)' (max size: 50MB, running total: 1104MB)
+4460 09:48:23 INFO  Cache created: 'IsUserInRoleCache' (max size: 5MB, running total: 1109MB)
+4460 09:48:23 INFO  Trying to load XML configuration /App_Config/Security/GlobalRoles.config
+4460 09:48:23 INFO  Cache created: 'shell[html]' (max size: 0 bytes, running total: 1109MB)
+4460 09:48:23 INFO  Cache created: 'shell[registry]' (max size: 15MB, running total: 1124MB)
+4460 09:48:23 INFO  Cache created: 'shell[viewstate]' (max size: 1MB, running total: 1125MB)
+4460 09:48:23 INFO  Cache created: 'shell[xsl]' (max size: 25MB, running total: 1150MB)
+4460 09:48:23 INFO  Cache created: 'shell[filtered items]' (max size: 10MB, running total: 1160MB)
+4460 09:48:23 INFO  Cache created: 'login[html]' (max size: 0 bytes, running total: 1160MB)
+4460 09:48:23 INFO  Cache created: 'login[registry]' (max size: 25MB, running total: 1185MB)
+4460 09:48:23 INFO  Cache created: 'login[viewstate]' (max size: 25MB, running total: 1210MB)
+4460 09:48:23 INFO  Cache created: 'login[xsl]' (max size: 50MB, running total: 1260MB)
+4460 09:48:23 INFO  Cache created: 'login[filtered items]' (max size: 10MB, running total: 1270MB)
+4460 09:48:23 INFO  Cache created: 'admin[html]' (max size: 0 bytes, running total: 1270MB)
+4460 09:48:23 INFO  Cache created: 'admin[registry]' (max size: 25MB, running total: 1295MB)
+4460 09:48:23 INFO  Cache created: 'admin[viewstate]' (max size: 25MB, running total: 1320MB)
+4460 09:48:23 INFO  Cache created: 'admin[xsl]' (max size: 50MB, running total: 1370MB)
+4460 09:48:23 INFO  Cache created: 'admin[filtered items]' (max size: 10MB, running total: 1380MB)
+4460 09:48:23 INFO  Cache created: 'service[html]' (max size: 0 bytes, running total: 1380MB)
+4460 09:48:23 INFO  Cache created: 'service[registry]' (max size: 25MB, running total: 1405MB)
+4460 09:48:23 INFO  Cache created: 'service[viewstate]' (max size: 25MB, running total: 1430MB)
+4460 09:48:23 INFO  Cache created: 'service[xsl]' (max size: 50MB, running total: 1480MB)
+4460 09:48:23 INFO  Cache created: 'service[filtered items]' (max size: 10MB, running total: 1490MB)
+4460 09:48:23 INFO  Cache created: 'modules_shell[html]' (max size: 0 bytes, running total: 1490MB)
+4460 09:48:23 INFO  Cache created: 'modules_shell[registry]' (max size: 25MB, running total: 1515MB)
+4460 09:48:23 INFO  Cache created: 'modules_shell[viewstate]' (max size: 25MB, running total: 1540MB)
+4460 09:48:23 INFO  Cache created: 'modules_shell[xsl]' (max size: 50MB, running total: 1590MB)
+4460 09:48:23 INFO  Cache created: 'modules_shell[filtered items]' (max size: 10MB, running total: 1600MB)
+4460 09:48:23 INFO  Cache created: 'modules_website[html]' (max size: 25MB, running total: 1625MB)
+4460 09:48:23 INFO  Cache created: 'modules_website[registry]' (max size: 25MB, running total: 1650MB)
+4460 09:48:23 INFO  Cache created: 'modules_website[viewstate]' (max size: 25MB, running total: 1675MB)
+4460 09:48:23 INFO  Cache created: 'modules_website[xsl]' (max size: 50MB, running total: 1725MB)
+4460 09:48:23 INFO  Cache created: 'modules_website[filtered items]' (max size: 10MB, running total: 1735MB)
+4460 09:48:23 INFO  Cache created: 'website[html]' (max size: 50MB, running total: 1785MB)
+4460 09:48:23 INFO  Cache created: 'website[registry]' (max size: 0 bytes, running total: 1785MB)
+4460 09:48:23 INFO  Cache created: 'website[viewstate]' (max size: 0 bytes, running total: 1785MB)
+4460 09:48:23 INFO  Cache created: 'website[xsl]' (max size: 25MB, running total: 1810MB)
+4460 09:48:23 INFO  Cache created: 'website[filtered items]' (max size: 10MB, running total: 1820MB)
+4460 09:48:23 INFO  Cache created: 'website[renderingParameters]' (max size: 10MB, running total: 1830MB)
+4460 09:48:23 INFO  Cache created: 'scheduler[html]' (max size: 0 bytes, running total: 1830MB)
+4460 09:48:23 INFO  Cache created: 'scheduler[registry]' (max size: 25MB, running total: 1855MB)
+4460 09:48:23 INFO  Cache created: 'scheduler[viewstate]' (max size: 25MB, running total: 1880MB)
+4460 09:48:23 INFO  Cache created: 'scheduler[xsl]' (max size: 50MB, running total: 1930MB)
+4460 09:48:23 INFO  Cache created: 'scheduler[filtered items]' (max size: 10MB, running total: 1940MB)
+4460 09:48:23 INFO  Cache created: 'system[html]' (max size: 0 bytes, running total: 1940MB)
+4460 09:48:23 INFO  Cache created: 'system[registry]' (max size: 25MB, running total: 1965MB)
+4460 09:48:23 INFO  Cache created: 'system[viewstate]' (max size: 25MB, running total: 1990MB)
+4460 09:48:23 INFO  Cache created: 'system[xsl]' (max size: 50MB, running total: 2040MB)
+4460 09:48:23 INFO  Cache created: 'system[filtered items]' (max size: 10MB, running total: 2050MB)
+4460 09:48:23 INFO  Cache created: 'publisher[html]' (max size: 0 bytes, running total: 2050MB)
+4460 09:48:23 INFO  Cache created: 'publisher[registry]' (max size: 25MB, running total: 2075MB)
+4460 09:48:23 INFO  Cache created: 'publisher[viewstate]' (max size: 25MB, running total: 2100MB)
+4460 09:48:23 INFO  Cache created: 'publisher[xsl]' (max size: 50MB, running total: 2150MB)
+4460 09:48:23 INFO  Cache created: 'publisher[filtered items]' (max size: 10MB, running total: 2160MB)
+4460 09:48:23 INFO  Cache created: 'scripts' (max size: 800KB, running total: 2161MB)
+ManagedPoolThread #12 09:48:26 INFO  Trying to load XML configuration /App_Config/Security/GlobalRoles.config
+13168 09:48:28 INFO  Cache created: 'Log singles' (max size: 100KB, running total: 2161MB)
+13168 09:48:28 WARN  No session Id managers were found to manage the session Id for the current request. Default asp.net session manager will be used.
+4460 09:48:28 WARN  No session Id managers were found to manage the session Id for the current request. Default asp.net session manager will be used.
+13168 09:48:29 INFO  Cache created: 'LocationsDictionaryCache' (max size: 976KB, running total: 2162MB)
+13168 09:48:29 INFO  Cache created: 'ReferringSitesDictionaryCache' (max size: 976KB, running total: 2163MB)
+13168 09:48:29 INFO  Cache created: 'GeoIpDataDictionaryCache' (max size: 976KB, running total: 2164MB)
+13168 09:48:29 INFO  Cache created: 'UserAgentDictionaryCache' (max size: 976KB, running total: 2165MB)
+13168 09:48:29 INFO  Cache created: 'DeviceDictionaryCache' (max size: 976KB, running total: 2166MB)
+ManagedPoolThread #1 09:48:29 INFO  Cache created: 'CES.GeoIp.Caching.GeoIpCache' (max size: 0 bytes, running total: 2166MB)
+4460 09:48:29 WARN  Sitecore.Social: Ninject, Version=3.2.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7 is not loaded. Couldn't determine the Social channels.
+13168 09:48:29 WARN  Sitecore.Social: Ninject, Version=3.2.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7 is not loaded. Couldn't determine the Social channels.
+ManagedPoolThread #1 09:48:31 WARN  Authentication on CES Discovery service failed.
+Exception: System.Net.WebException
+Message: Serwer zdalny zwrócił błąd: (403) Zabronione.
+Source: System
+   w System.Net.HttpWebRequest.GetResponse()
+   w Sitecore.CES.Client.WebClient.ExecuteRequest(String requestUri)
+   w Sitecore.CES.Client.WebClient.ExecuteRequest(String endpointUri, String resourcePath, Object[] parameters)
+   w Sitecore.CES.Client.ResourceConnector`1.Request(String endpoint, Object[] parameters)
+   w Sitecore.CES.Discovery.EndpointSource.GetEndpoint(String serviceName)
+
+ManagedPoolThread #1 09:48:31 ERROR Failed to perform GeoIp lookup for 45b4fe99-261c-b419-0806-bf869aeb5c06
+Exception: System.ArgumentNullException
+Message: Null ids are not allowed.
+Nazwa parametru: endpoint
+Source: Sitecore.Kernel
+   w Sitecore.Diagnostics.Assert.ArgumentNotNullOrEmpty(String argument, String argumentName)
+   w Sitecore.CES.Client.ResourceConnector`1.Request(String endpoint, Object[] parameters)
+   w Sitecore.CES.GeoIp.SitecoreProvider.GetInformationByIp(String ip)
+   w Sitecore.Analytics.Lookups.LookupManager.GetInformationByIp(String ip)
+   w Sitecore.Analytics.Lookups.GeoIpManager.GetDataFromLookupProvider(GeoIpHandle geoIpHandle)
+
+4460 09:48:33 INFO  Cache created: 'WebUtil.QueryStringCache' (max size: 19KB, running total: 2166MB)
+21620 09:48:34 INFO  Cache created: 'RequestProtection.HashCache' (max size: 3MB, running total: 2169MB)
+21620 09:48:34 WARN  The "Media.AlwaysIncludeServerUrl" setting contains an invalid value. The default value is used instead. Invalid value: "". Default value: "False"
+21620 09:48:34 WARN  The "Media.LowercaseUrls" setting contains an invalid value. The default value is used instead. Invalid value: "". Default value: "False"
+2460 09:49:13 INFO  HttpModule is being initialized
+4460 09:49:13 INFO  HttpModule is being initialized
+5660 09:49:59 WARN  Sitecore.Social: Ninject, Version=3.2.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7 is not loaded. Couldn't update social profiles during an user logging in.
+5660 09:49:59 INFO  AUDIT (sitecore\admin): Login
+ManagedPoolThread #11 09:50:19 INFO  Cache created: 'SqlDataProvider - Prefetch data(master)' (max size: 100MB, running total: 2269MB)
+ManagedPoolThread #11 09:50:19 INFO  Loading Dictionary from database. Domain: 'Dictionary'. Language: 'en'.
+5660 09:50:32 INFO  HttpModule is being initialized
+21620 09:50:33 INFO  HttpModule is being initialized
+21728 09:53:14 INFO  Layout file modified: c:\users\softwarehut\source\repos\SitecoreLearn2\SitecoreLearn2\layouts\debug
+ManagedPoolThread #2 09:53:14 INFO  Health.PrivateBytes: 363 155 456
+ManagedPoolThread #2 09:53:14 INFO  Health.CacheInstances: 115
+ManagedPoolThread #2 09:53:14 INFO  Health.CacheTotalCount: 50 010
+ManagedPoolThread #2 09:53:14 INFO  Health.CacheTotalSize: 121 317 732
+14240 09:53:15 INFO  HttpModule is being initialized
+ManagedPoolThread #2 09:53:15 INFO  Health.Counter(iisexpress, Process\Private Bytes): 371 052 544
+ManagedPoolThread #2 09:53:15 INFO  Health.Counter(iisexpress, Process\Virtual Bytes): 1 012 621 312
+ManagedPoolThread #2 09:53:15 INFO  Health.Counter(iisexpress, Process\Page File Bytes): 372 346 880
+ManagedPoolThread #2 09:53:15 INFO  Health.Counter(iisexpress, .NET CLR Memory\# Bytes in all Heaps): 155 852 228
+ManagedPoolThread #2 09:53:15 INFO  Health.Counter(iisexpress, .NET CLR Memory\% Time in GC): 0,18
+ManagedPoolThread #2 09:53:15 INFO  Health.Counter(iisexpress, .NET CLR Memory\Large Object Heap size): 24 943 296
+ManagedPoolThread #2 09:53:15 INFO  Health.Counter(iisexpress, .NET CLR Loading\Bytes in Loader Heap): 27 664 384
+ManagedPoolThread #2 09:53:15 INFO  Health.Counter(iisexpress, .NET CLR Loading\Current Assemblies): 323
+7984 09:53:15 INFO  HttpModule is being initialized
+2460 09:53:15 INFO  HttpModule is being initialized
+18444 09:53:15 INFO  HttpModule is being initialized

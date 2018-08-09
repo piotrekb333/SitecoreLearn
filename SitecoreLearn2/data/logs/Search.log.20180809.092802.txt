@@ -1,0 +1,3 @@
+﻿21808 09:28:22 INFO  Warming and Caching your search indexes
+21808 09:28:22 INFO  /******* Warming Queries ********/
+21808 09:28:22 INFO  /*************************/
